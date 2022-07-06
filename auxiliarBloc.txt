@@ -3,3 +3,4 @@ add js selections
 add displayMenu event
 add refaction add displayMenuItems function
 add filer buttons html
+add js buttons selections
