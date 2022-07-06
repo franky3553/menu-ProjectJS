@@ -5,3 +5,4 @@ add refaction add displayMenuItems function
 add filer buttons html
 add js buttons selections
 add manage filter display events
+add manage new items js selections
