@@ -1,2 +1,3 @@
 add menu section
 add js selections
+add displayMenu event
